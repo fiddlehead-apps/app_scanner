@@ -1,0 +1,795 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ · %@": {
+      "shouldTranslate": false
+    },
+    "%@ · %@ · %@": {
+      "shouldTranslate": false
+    },
+    "%lld pages": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld page"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld pages"
+                }
+              }
+            }
+          }
+        },
+        "de": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld Seite"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld Seiten"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "A file with this name already exists.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine Datei mit diesem Namen gibt es schon."
+          }
+        }
+      }
+    },
+    "Add folder…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ordner hinzufügen …"
+          }
+        }
+      }
+    },
+    "Amount": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrag"
+          }
+        }
+      }
+    },
+    "Any folder from the Files app works, also on a USB stick or in iCloud Drive. iOS syncs folders in iCloud Drive like any other file there; the app itself uploads nothing. Swipe to remove a folder from the list, the files stay.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeder Ordner aus der Dateien-App geht, auch auf einem USB-Stick oder in iCloud Drive. Ordner in iCloud Drive synchronisiert iOS wie jede andere Datei dort; die App selbst lädt nichts hoch. Zum Entfernen aus der Liste wischen, die Dateien bleiben."
+          }
+        }
+      }
+    },
+    "Apple Intelligence": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence"
+          }
+        }
+      }
+    },
+    "Apple Intelligence is reading document %lld of %lld…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence liest Dokument %lld von %lld …"
+          }
+        }
+      }
+    },
+    "Apple Intelligence is reading the document…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence liest das Dokument …"
+          }
+        }
+      }
+    },
+    "Apple Intelligence is still getting ready (downloading its model). Try again later.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence wird noch eingerichtet (lädt sein Modell). Versuch es später noch mal."
+          }
+        }
+      }
+    },
+    "Apple Intelligence reads title, sender, date and amount. Runs on this iPhone.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence liest Titel, Absender, Datum und Betrag. Läuft auf diesem iPhone."
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
+        }
+      }
+    },
+    "Certificate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bescheinigung"
+          }
+        }
+      }
+    },
+    "Choose a folder and a name, then tap Scan. The camera finds the page on its own and takes the picture. Each scan becomes a searchable PDF in the folder.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ordner und Namen wählen, dann auf Scannen tippen. Die Kamera findet die Seite selbst und löst aus. Jeder Scan wird ein durchsuchbares PDF im Ordner."
+          }
+        }
+      }
+    },
+    "Choose another folder…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anderen Ordner wählen …"
+          }
+        }
+      }
+    },
+    "City Power": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stadtwerke"
+          }
+        }
+      }
+    },
+    "Clear list": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste leeren"
+          }
+        }
+      }
+    },
+    "Contract": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vertrag"
+          }
+        }
+      }
+    },
+    "Couldn't add the folder": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ordner konnte nicht hinzugefügt werden"
+          }
+        }
+      }
+    },
+    "Couldn't rename": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umbenennen fehlgeschlagen"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
+          }
+        }
+      }
+    },
+    "Delete file": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datei löschen"
+          }
+        }
+      }
+    },
+    "Document": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dokument"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
+          }
+        }
+      }
+    },
+    "Each page is its own document": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jede Seite ein eigenes Dokument"
+          }
+        }
+      }
+    },
+    "Electricity bill October": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stromrechnung Oktober"
+          }
+        }
+      }
+    },
+    "Example: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beispiel: %@"
+          }
+        }
+      }
+    },
+    "File name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dateiname"
+          }
+        }
+      }
+    },
+    "Files app → On My iPhone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dateien-App → Auf meinem iPhone"
+          }
+        }
+      }
+    },
+    "Folder": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ordner"
+          }
+        }
+      }
+    },
+    "Folders": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ordner"
+          }
+        }
+      }
+    },
+    "Form": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Formular"
+          }
+        }
+      }
+    },
+    "Invoice": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechnung"
+          }
+        }
+      }
+    },
+    "Letter": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brief"
+          }
+        }
+      }
+    },
+    "Manual": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anleitung"
+          }
+        }
+      }
+    },
+    "More": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehr"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "Name, e.g. Tax 2026": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name, z. B. Steuer 2026"
+          }
+        }
+      }
+    },
+    "No.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nr."
+          }
+        }
+      }
+    },
+    "Not saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nicht gespeichert"
+          }
+        }
+      }
+    },
+    "Notice": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bescheid"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Off: scans are saved with text recognition only.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus: Scans werden nur mit Texterkennung gespeichert."
+          }
+        }
+      }
+    },
+    "Photos": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotos"
+          }
+        }
+      }
+    },
+    "Read by Apple Intelligence, may contain mistakes.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Von Apple Intelligence gelesen, kann Fehler enthalten."
+          }
+        }
+      }
+    },
+    "Reading the text…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text wird gelesen …"
+          }
+        }
+      }
+    },
+    "Receipt": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quittung"
+          }
+        }
+      }
+    },
+    "Recent scans": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzte Scans"
+          }
+        }
+      }
+    },
+    "Recognized text": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erkannter Text"
+          }
+        }
+      }
+    },
+    "Remove from list": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus der Liste entfernen"
+          }
+        }
+      }
+    },
+    "Rename": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umbenennen"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zurücksetzen"
+          }
+        }
+      }
+    },
+    "Save to": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speichern in"
+          }
+        }
+      }
+    },
+    "Saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gespeichert"
+          }
+        }
+      }
+    },
+    "Saving…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wird gespeichert …"
+          }
+        }
+      }
+    },
+    "Scan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scannen"
+          }
+        }
+      }
+    },
+    "Scan next document": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nächstes Dokument scannen"
+          }
+        }
+      }
+    },
+    "Scans": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scans"
+          }
+        }
+      }
+    },
+    "Search name and text": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name und Text durchsuchen"
+          }
+        }
+      }
+    },
+    "Sender": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Absender"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen"
+          }
+        }
+      }
+    },
+    "Show": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anzeigen"
+          }
+        }
+      }
+    },
+    "Sola Scanner": {
+      "shouldTranslate": false
+    },
+    "Statement": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auszug"
+          }
+        }
+      }
+    },
+    "Text recognition and Apple Intelligence run on this iPhone. No account, no server, nothing leaves the device.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texterkennung und Apple Intelligence laufen auf diesem iPhone. Kein Konto, kein Server, nichts verlässt das Gerät."
+          }
+        }
+      }
+    },
+    "The PDF is deleted from its folder.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das PDF wird aus seinem Ordner gelöscht."
+          }
+        }
+      }
+    },
+    "The file is no longer in its folder. It may have been moved, renamed or deleted in the Files app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei liegt nicht mehr in ihrem Ordner. Vielleicht wurde sie in der Dateien-App verschoben, umbenannt oder gelöscht."
+          }
+        }
+      }
+    },
+    "The folder can't be reached anymore. Pick it again.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Ordner ist nicht mehr erreichbar. Wähl ihn noch einmal aus."
+          }
+        }
+      }
+    },
+    "The list on the start screen is emptied. The PDFs stay in their folders.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Liste auf dem Startbildschirm wird geleert. Die PDFs bleiben in ihren Ordnern."
+          }
+        }
+      }
+    },
+    "The pages couldn't be read.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Seiten konnten nicht gelesen werden."
+          }
+        }
+      }
+    },
+    "This iPhone doesn't support Apple Intelligence. Scans are saved with text recognition only.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieses iPhone unterstützt Apple Intelligence nicht. Scans werden nur mit Texterkennung gespeichert."
+          }
+        }
+      }
+    },
+    "Time": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhrzeit"
+          }
+        }
+      }
+    },
+    "Title": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel"
+          }
+        }
+      }
+    },
+    "Turn on Apple Intelligence in the Settings app to read facts from documents.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schalte Apple Intelligence in der Einstellungen-App ein, um Angaben aus Dokumenten zu lesen."
+          }
+        }
+      }
+    },
+    "Type": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Art"
+          }
+        }
+      }
+    },
+    "Without Apple Intelligence, Title becomes “Scan”, Sender and Type stay empty.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ohne Apple Intelligence wird Titel zu „Scan“, Absender und Art bleiben leer."
+          }
+        }
+      }
+    },
+    "“%@” couldn't be reached, so the scan went into the Sola Scanner folder. Pick the folder again in the settings.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„%@“ war nicht erreichbar, der Scan liegt deshalb im Ordner Sola Scanner. Wähl den Ordner in den Einstellungen noch einmal aus."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

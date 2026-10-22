@@ -1,0 +1,14 @@
+// Sola Scanner build configuration, the base for every target.
+//
+// Identifiers derive from BUNDLE_ID_PREFIX:
+//   App:        $(BUNDLE_ID_PREFIX).scanner
+//
+// Local overrides go into sola-local.xcconfig next to the repos (not in git); every Sola
+// app reads it if it exists. Typical content:
+//   SOLA_TEAM = ABCDE12345     // the paid team that publishes the apps
+
+BUNDLE_ID_PREFIX = eu.fiddlehead.sola
+SOLA_TEAM = Z4Z62632W2
+DEVELOPMENT_TEAM = $(SOLA_TEAM)
+
+#include? "../../sola-local.xcconfig"
